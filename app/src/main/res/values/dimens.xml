@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="search_bar_left_spacing">40dp</dimen>
+
+    <dimen name="search_bar_width">320dp</dimen>
+
+
+    <dimen name="title_bottom_padding">24dp</dimen>
+
+
+    <dimen name="title_text_size">40sp</dimen>
+
+
+    <dimen name="card_view_height">56dp</dimen>
+
+
+    <dimen name="min_dimension">8dp</dimen>
+
+
+    <dimen name="search_editable_text_width">260dp</dimen>
+
+
+    <dimen name="search_button_width">56dp</dimen>
+
+
+    <dimen name="book_height">240dp</dimen>
+
+
+    <dimen name="book_width">200dp</dimen>
+
+
+    <dimen name="book_info_centering_left">12dp</dimen>
+
+
+    <dimen name="book_info_centering_right">12dp</dimen>
+
+
+    <dimen name="vertical_spacing">12dp</dimen>
+
+
+    <dimen name="book_title_text_size">16sp</dimen>
+
+
+    <dimen name="book_secondary_info">10sp</dimen>
+</resources>
